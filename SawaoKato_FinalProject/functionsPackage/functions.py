@@ -1,3 +1,12 @@
+# Name: Sawao Kato - Anna Hauer, Brooke Pohlman, Riley Clayton, and Sabrina Harrington
+# email: hauerac@mail.uc.edu, pohlmabe@mail.uc.edu, claytorm@mail.uc.edu, & harrinsr@mail.uc.edu
+# Assignment Title: Final Project
+# Course: IS 4010
+# Semester/Year: Spring 2023
+# Brief Description: Our team collaborated to develop an Eclipse application and went on a scavenger hunt.
+# Citations:
+# Anything else that's relevant: Group Assignment
+
 # functions.py
 from PIL import Image
 import json
